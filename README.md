@@ -75,11 +75,17 @@ The goal is to move beyond averages and uncover **distributional insights, inequ
 ## 📁 Project Structure
 Tech-Pay-Shift/
 │
-├── app.py # Main Streamlit app
-├── processed_data.csv # Cleaned dataset
-├── README.md # Project documentation
-├── requirements.txt # Dependencies
-└── assets/ # Optional images / animations
+├── app.py                  # Main Streamlit application
+├── processed_data.csv      # Cleaned dataset used in app
+├── data_science_salaries.csv  # Raw salary dataset
+├── API_NY.GDP.PCAP.PP.CD_DS2_en_csv_v2_115697.csv  # GDP dataset
+├── Tech Pay Shift.ipynb   # Jupyter notebook for analysis
+├── Tech_Pay_Shift_Group-4.pdf  # Project report
+│
+├── requirements.txt       # Project dependencies
+├── README.md              # Project documentation
+│
+└── assets/                # Optional images / visuals
 
 
 ---
