@@ -12,7 +12,7 @@ This project explores the evolution of tech salaries from 2020 to 2024, focusing
 - 💼 Experience-based salary distribution  
 - 🌐 Global salary differences adjusted for GDP (PPP)  
 - 🏠 Impact of remote work on compensation  
-- 📈 Time-series divergence between remote and onsite roles  
+- 📈 Time-series divergence between remote and onsite roles
 
 The goal is to move beyond averages and uncover **distributional insights, inequality trends, and global pay dynamics**.
 
