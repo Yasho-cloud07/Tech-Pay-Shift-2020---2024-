@@ -80,12 +80,11 @@ Tech-Pay-Shift/
 ├── data_science_salaries.csv  # Raw salary dataset
 ├── API_NY.GDP.PCAP.PP.CD_DS2_en_csv_v2_115697.csv  # GDP dataset
 ├── Tech Pay Shift.ipynb   # Jupyter notebook for analysis
-├── Tech_Pay_Shift_Group-4.pdf  # Project report
+├── Tech_Pay_Shift_Group-4.pdf  # Project ppt
 │
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Project documentation
-│
-└── assets/                # Optional images / visuals
+
 
 
 ---
